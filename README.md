@@ -1,2 +1,2 @@
 # amazon-clone
-Front-end amazon clone Project
+Front-end amazon UI clone Project
